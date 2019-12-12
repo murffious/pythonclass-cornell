@@ -1,6 +1,6 @@
 #  Implementing a Currency Converter 
 pythonclass-cornell capstone project
-- using Python query a (web service) currency service [https://openexchangerates.org/api/currencies.json] using an API key and interpret the results.
+- using Python query a (web service) [currency service](https://openexchangerates.org/api/currencies.json) using an API key and interpret the results.
 ### Project Workflow
 * Add a stub for a function to currency.py.
 * Add a complete set of test cases for the function to testcurrency.py.
@@ -14,6 +14,7 @@ pythonclass-cornell capstone project
 * Write your name and the current date in the initial docstring of every file
 * Keep all lines no longer than approximately 80 characters
 * No if statements, or advaced control flow or loops
+* No methods, only usage of [introcs module](https://pypi.org/project/introcs/)
 
 Example usage:
 
