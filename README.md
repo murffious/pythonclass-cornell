@@ -1,6 +1,6 @@
-# pythonclass-cornell
+#  Implementing a Currency Converter 
+pythonclass-cornell capstone project
 - using Python query a (web service) currency service [https://openexchangerates.org/api/currencies.json] using an API key and interpret the results.
-
 ### Project Workflow
 * Add a stub for a function to currency.py.
 * Add a complete set of test cases for the function to testcurrency.py.
@@ -16,6 +16,8 @@
 * No if statements, or advaced control flow or loops
 
 Example usage:
+
+
 <img width="713" alt="Screen Shot 2019-12-12 at 4 17 56 PM" src="https://user-images.githubusercontent.com/25558342/70756895-0d13ec80-1cfb-11ea-97b7-5d378c36b0da.png">
 
 
