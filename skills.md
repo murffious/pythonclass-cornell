@@ -38,13 +38,7 @@ Represent multidimensional data
 Design functions
 
 ###### CIS556 - AUDITING DATASETS
-Use scripts to extract information or wrangle data
-
-
-Read CSV, TXT and JSON files
-
-
-Process datetime objects
-
-
-Build a Python application package
+ Use scripts to extract information or wrangle data
+ Read CSV, TXT and JSON files
+ Process datetime objects
+ Build a Python application package
