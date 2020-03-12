@@ -1,89 +1,91 @@
-Welcome to my repo demonstrating/documenting some of my python programming skills. I have 7 folders here that I have done recently. My desire is to show that I can write CLEAN EFFICIENT pyton code to solve any problem and use some of the core, well known python modules/packages/libraries. I wrote all the code minus some of the tests in the 'coursework' folder and those are labeled with authors of each.
+    Welcome to my repo demonstrating/documenting some of my python programming skills. I have 7 folders here that I have done recently. My desire is to show that I can write CLEAN EFFICIENT python code to solve any problem and use some of the core, well known python modules/packages/libraries.
 
-This course was very challenging and rewarding in many many ways. I agree with the overwhelming amounts data from developer surveys that show python is an enjoyable language to code in.
+    My desire is to use these skills to code my RaspberryPi, maybe some desktop OS stuff, AI/ML for sure and Django Web or Flask API code projects. I am an experienced (3+ years fs web dev) developer and with that background can comfortably use this language as needed at an intermediate level but am stronger with JS still at the moment of making this repo in 2020.
 
-My desire is to use these skills to code my RaspberryPi, maybe some desktop OS stuff, AI/ML for sure and Django Web or Flask API code projects. I am an experienced (3+ years fs web dev) develpoer and with that background can comfortably use this language as needed at an intermediate level but am stronger with JS still at the moment of making this repo in 2020.
+    1. `/currencyconvert` A foreign exchange currency converter. CLI usage only right now.
+    2. `/auditdata` Audit Data
+    3. `/coursework` My full coursework demonstrating each aspect of Python
+    4. `/scraper` Web jobs scraper
+    5. `/oop-udemy` Object Oriented Practice Code showing 4 core principles.
+    6. `APIwFlask` A Flask web API hosted on python Anywhere
+    7. `ml-python-udacity` ML Code practice
 
-1. A foreign exchange currency converter. CLI usage only right now.
-2. Audit Data
-3. My full coursework demonstrating each aspect of Python
-4. Web scarper
-5. Object Oriented Practice Code showing 4 core principles.
-6. A Flask web API hosted on python Anywhere
-7. ML Code practice
+    Here is a summary of the skills learned @Cornell University obtaining the certification `SOFTWARE DEVELOPMENT IN PYTHON`.
 
-Here is a summary of the skills learned @Cornell University obtaining the certification `SOFTWARE DEVELOPMENT IN PYTHON`.
+    I wrote all the code minus some of the tests in the 'coursework' folder and those are labeled with authors of each.
 
-###### CIS551 - PYTHON FUNDAMENTALS
+    This course was very challenging and rewarding in many many ways. I agree with the overwhelming amounts data from developer surveys that show python is an enjoyable language to code in.
 
-Run a Python script you have been given
+    ###### CIS551 - PYTHON FUNDAMENTALS
 
-Work with expressions in interactive mode
+    Run a Python script you have been given
 
-Work with functions in interactive mode
+    Work with expressions in interactive mode
 
-Work with variables in interactive mode
+    Work with functions in interactive mode
 
-Write a basic Python script that includes built-in functions and modules
+    Work with variables in interactive mode
 
-###### CIS552 - USER-DEFINED FUNCTIONS IN PYTHON
+    Write a basic Python script that includes built-in functions and modules
 
-Identify how functions work
+    ###### CIS552 - USER-DEFINED FUNCTIONS IN PYTHON
 
-Build a technical vocabulary
+    Identify how functions work
 
-Visualize Python executions
+    Build a technical vocabulary
 
-Follow rules for writing functions
+    Visualize Python executions
 
-Recognize a properly formatted specification
+    Follow rules for writing functions
 
-Identify strategies for effective debugging
+    Recognize a properly formatted specification
 
-Turn an English description into code
+    Identify strategies for effective debugging
 
-Read and interpret error messages
+    Turn an English description into code
 
-Write an informative error message
+    Read and interpret error messages
 
-###### CIS553 - DEVELOPING A CURRENCY CONVERTER
+    Write an informative error message
 
-Utilize Python to work with a web service
+    ###### CIS553 - DEVELOPING A CURRENCY CONVERTER
 
-Assemble the tools necessary to develop a currency converter
+    Utilize Python to work with a web service
 
-Create a currency converter
+    Assemble the tools necessary to develop a currency converter
 
-###### CIS554 - CONTROLLING PROGRAM FLOW
+    Create a currency converter
 
-Write conditional statements and expressions
+    ###### CIS554 - CONTROLLING PROGRAM FLOW
 
-Design and test functions
+    Write conditional statements and expressions
 
-Evaluate expressions
+    Design and test functions
 
-Create statement visualizations
+    Evaluate expressions
 
-Write recursive definitions and functions
+    Create statement visualizations
 
-Design and implement divide and conquer algorithms
+    Write recursive definitions and functions
 
-###### CIS555 - MASTERING DATA STRUCTURES
+    Design and implement divide and conquer algorithms
 
-Program with objects
+    ###### CIS555 - MASTERING DATA STRUCTURES
 
-Visualize Python objects
+    Program with objects
 
-Represent multidimensional data
+    Visualize Python objects
 
-Design functions
+    Represent multidimensional data
 
-###### CIS556 - AUDITING DATASETS
+    Design functions
 
-_Use scripts to extract information or wrangle data_
+    ###### CIS556 - AUDITING DATASETS
 
-_Read CSV, TXT and JSON files_
+    _Use scripts to extract information or wrangle data_
 
-_Process datetime objects_
+    _Read CSV, TXT and JSON files_
 
-_Build a Python application package_
+    _Process datetime objects_
+
+    _Build a Python application package_
