@@ -89,3 +89,13 @@
     _Process datetime objects_
 
     _Build a Python application package_
+
+Whats next?
+ML -
+Web Dev for Dashboards with Django or Flask
+Fullstack Engineer
+
+I also read - Self taught Programmer - some begining python books
+Currenltly I am reading ...
+Clean Python,
+Python Cookbook
