@@ -1,4 +1,4 @@
-Welcome to my repo demonstrating/documenting some of my python programming skills. I have 7 folders here that I have done recently. My desire is to show that I can write CLEAN EFFICIENT pyton code to solve any problem and use the core, well known python modules/packages/libraries. I wrote all the code minus some of the tests in the 'coursework' folder and those are labeled with authors of each.
+Welcome to my repo demonstrating/documenting some of my python programming skills. I have 7 folders here that I have done recently. My desire is to show that I can write CLEAN EFFICIENT pyton code to solve any problem and use some of the core, well known python modules/packages/libraries. I wrote all the code minus some of the tests in the 'coursework' folder and those are labeled with authors of each.
 
 This course was very challenging and rewarding in many many ways. I agree with the overwhelming amounts data from developer surveys that show python is an enjoyable language to code in.
 
