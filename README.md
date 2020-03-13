@@ -14,7 +14,7 @@ Here is a summary of the skills learned @Cornell University obtaining the certif
 
 I wrote all the code minus some of the tests in the 'coursework' folder and those are labeled with authors of each.
 
-This course was very challenging and rewarding in many many ways. I agree with the overwhelming amounts data from developer surveys that show python is an enjoyable language to code in.
+This course was very challenging and rewarding in many many ways. I agree with the overwhelming amounts data from developer surveys that show python is an enjoyable language to code in. To be clear the certification did not include ML or Flask or scarping, those are my own side projects just to showing them here.
 
 ###### CIS551 - PYTHON FUNDAMENTALS
 
@@ -82,6 +82,8 @@ Design functions
 
 ###### CIS556 - AUDITING DATASETS
 
+The purpose of this project is to create an application that will analyze the annual data from our fictional flight school and detect any regulatory violations.
+
 _Use scripts to extract information or wrangle data_
 
 _Read CSV, TXT and JSON files_
@@ -89,13 +91,3 @@ _Read CSV, TXT and JSON files_
 _Process datetime objects_
 
 _Build a Python application package_
-
-Whats next?
-ML -
-Web Dev for Dashboards with Django or Flask
-Fullstack Engineer
-
-I also read - Self taught Programmer - some begining python books
-Currenltly I am reading ...
-Clean Python,
-Python Cookbook
