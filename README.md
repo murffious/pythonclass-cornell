@@ -14,7 +14,7 @@
 
     I wrote all the code minus some of the tests in the 'coursework' folder and those are labeled with authors of each.
 
-    This course was very challenging and rewarding in many many ways. I agree with the overwhelming amounts data from developer surveys that show python is an enjoyable language to code in.
+    This course was very challenging and rewarding in many many ways. I agree with the overwhelming amounts data from developer surveys that show python is an enjoyable language to code in. To be clear the certification did not include ML or Flask or scarping, those are my own side projects just to showing them here. 
 
     ###### CIS551 - PYTHON FUNDAMENTALS
 
