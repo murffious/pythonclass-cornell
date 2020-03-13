@@ -2,19 +2,20 @@
 
     My desire is to use these skills to code my RaspberryPi, maybe some desktop OS stuff, AI/ML for sure and Django Web or Flask API code projects. I am an experienced (3+ years fs web dev) developer and with that background can comfortably use this language as needed at an intermediate level but am stronger with JS still at the moment of making this repo in 2020.
 
-    1. `/currencyconvert` A foreign exchange currency converter. CLI usage only right now.
-    2. `/auditdata` Audit Data
-    3. `/coursework` My full coursework demonstrating each aspect of Python
-    4. `/scraper` Web jobs scraper
-    5. `/oop-udemy` Object Oriented Practice Code showing 4 core principles.
-    6. `APIwFlask` A Flask web API hosted on python Anywhere
-    7. `ml-python-udacity` ML Code practice
+    1. `currencyconvert` A foreign exchange currency converter. CLI usage only right now.
+    2. `auditdata` Audit Data.
+    3. `coursework` My full coursework demonstrating each aspect of Python.
+    4. `scraper` Web jobs scraper.
+    5. `oop-udemy` Object Oriented Practice Code showing 4 core principles.
+    6. `APIwFlask` A Flask web API hosted on python Anywhere.
+    7. `ml-python-udacity` ML Code practice.
 
     Here is a summary of the skills learned @Cornell University obtaining the certification `SOFTWARE DEVELOPMENT IN PYTHON`.
 
     I wrote all the code minus some of the tests in the 'coursework' folder and those are labeled with authors of each.
 
-    This course was very challenging and rewarding in many many ways. I agree with the overwhelming amounts data from developer surveys that show python is an enjoyable language to code in. To be clear the certification did not include ML or Flask or scarping, those are my own side projects just to showing them here. 
+    This course was very challenging and rewarding in many many ways. I agree with the overwhelming amounts data from developer surveys that show python is an enjoyable language to code in. To be clear the certification did not include ML or Flask or scarping, those are my own side projects just to showing them here.
+     
 
     ###### CIS551 - PYTHON FUNDAMENTALS
 
@@ -81,6 +82,7 @@
     Design functions
 
     ###### CIS556 - AUDITING DATASETS
+    The purpose of this project is to create an application that will analyze the annual data from our fictional flight school     and detect any regulatory violations.
 
     _Use scripts to extract information or wrangle data_
 
@@ -89,7 +91,6 @@
     _Process datetime objects_
 
     _Build a Python application package_
-
 Whats next?
 ML -
 Web Dev for Dashboards with Django or Flask
