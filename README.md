@@ -2,13 +2,13 @@ Welcome to my repo demonstrating/documenting some of my python programming skill
 
 My desire is to use these skills to code my RaspberryPi, maybe some desktop OS stuff, AI/ML for sure and Django Web or Flask API code projects. I am an experienced (3+ years fs web dev) developer and with that background can comfortably use this language as needed at an intermediate level but am stronger with JS still at the moment of making this repo in 2020.
 
-1. `/currencyconvert` A foreign exchange currency converter. CLI usage only right now.
+1. `/currencyconvert` A foreign exchange currency converter (CLI)
 2. `/auditdata` Audit Data
 3. `/coursework` My full coursework demonstrating each aspect of Python
 4. `/scraper` Web jobs scraper
-5. `/oop-udemy` Object Oriented Practice Code showing 4 core principles.
-6. `APIwFlask` A Flask web API hosted on python Anywhere
-7. `ml-python-udacity` ML Code practice
+5. `/oop-udemy` Object Oriented Practice Code showing 4 core principles
+6. `/APIwFlask` A Flask web API hosted on python Anywhere
+7. `/ml-python-udacity` ML Code practice
 
 Here is a summary of the skills learned @Cornell University obtaining the certification `SOFTWARE DEVELOPMENT IN PYTHON`.
 
